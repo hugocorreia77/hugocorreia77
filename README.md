@@ -1,8 +1,8 @@
 ### Hi there! 👋
 
 I'm Hugo Correia! I'm a software engineer from Portugal!  😎
-I've been working as a fullstack web developer since 2014. I like to be involved in projects since the concept and requirement analisys to the delivery and support. 
-I love the feeling to see people using software tools made by me to solve their daily tasks! It's simply satisfying! :smile: 
+I've been working as a fullstack web developer since 2014. I like to be involved in projects since its concept and requirement analisys until the delivery and support. 
+I love to see people using software tools made by me to solve their daily tasks! It's simply satisfying! :smile: 
 
 <!--
 **hugocorreia77/hugocorreia77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
